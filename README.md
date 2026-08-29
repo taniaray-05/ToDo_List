@@ -29,6 +29,6 @@ python todo.py
 ```
 ## Author
 
-**Tania Ray**
+**Tania Ray**<br>
 *Python Developer Intern |
 Internship Task 02*
