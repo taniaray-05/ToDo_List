@@ -30,4 +30,5 @@ python todo.py
 ## Author
 
 **Tania Ray**
-*Python Developer Intern | Internship Task 02*
+*Python Developer Intern |
+Internship Task 02*
